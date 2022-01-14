@@ -13,23 +13,6 @@
   </p>
 </div>
 
-<!-- ABOUT THE PROJECT -->
-## SOME SCREENSHOTS
-
-<p align="center">
-  <img src="https://github.com/svillarruelv/TIC-TAC-TOE-REACTNATIVE/blob/main/assets/SS_1.jpeg" />
-</p>
-<p align="center">
-  <img src="https://github.com/svillarruelv/TIC-TAC-TOE-REACTNATIVE/blob/main/assets/SS_2.jpeg" />
-</p>
-<p align="center">
-  <img src="https://github.com/svillarruelv/TIC-TAC-TOE-REACTNATIVE/blob/main/assets/SS_3.jpeg" />
-</p>
-                                                                                              
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 ### Built With
 
 * REACT NATIVE
@@ -70,7 +53,26 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- ABOUT THE PROJECT -->
+## SOME SCREENSHOTS
 
+<p align="center">
+  <img src="https://github.com/svillarruelv/TIC-TAC-TOE-REACTNATIVE/blob/main/assets/SS_1.jpeg" 
+       width = "300"
+       height = "550"/>
+</p>
+<p align="center">
+  <img src="https://github.com/svillarruelv/TIC-TAC-TOE-REACTNATIVE/blob/main/assets/SS_2.jpeg"
+        width = "300"
+       height = "550"/>
+</p>
+<p align="center">
+  <img src="https://github.com/svillarruelv/TIC-TAC-TOE-REACTNATIVE/blob/main/assets/SS_3.jpeg"
+        width = "300"
+       height = "550"/>
+</p>
+                                                                                              
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
