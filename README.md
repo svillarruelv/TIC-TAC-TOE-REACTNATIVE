@@ -23,7 +23,7 @@
   <img src="https://github.com/svillarruelv/TIC-TAC-TOE-REACTNATIVE/blob/main/assets/SS_2.jpeg" />
 </p>
 <p align="center">
-  <img src=https://github.com/svillarruelv/TIC-TAC-TOE-REACTNATIVE/blob/main/assets/SS_3.jpeg" />
+  <img src="https://github.com/svillarruelv/TIC-TAC-TOE-REACTNATIVE/blob/main/assets/SS_3.jpeg" />
 </p>
                                                                                               
 <p align="right">(<a href="#top">back to top</a>)</p>
