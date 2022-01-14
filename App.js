@@ -92,15 +92,16 @@ export default class App extends React.Component {
     this.setState({stepNumber: nextStep});
 
     var winner = this.getWinner();
+  
     if (winner === 1){
-      Alert.alert('PLAYER 1 WON');
-      this.intializeGame()
+      Alert.alert('Player X wins!','',[{text:'RESTART', onPress: () => this.intializeGame()}]);
+      //this.intializeGame()
     }else if(winner === -1){
-      Alert.alert('PLAYER 2 WON');
-      this.intializeGame()
+      Alert.alert('Player O wins!','',[{text:'RESTART', onPress: () => this.intializeGame()}]);
+      //this.intializeGame()
     }else if(nextStep===9){
-      Alert.alert('ITS DRAW');
-      this.intializeGame()
+      Alert.alert('Its Draw','',[{text:'RESTART', onPress: () => this.intializeGame()}]);
+      //this.intializeGame()
     }
   }
 
